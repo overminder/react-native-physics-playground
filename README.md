@@ -12,6 +12,8 @@ My HTC bufferfly starts to drop below 60 FPS on ~20 circles.
 
 ### DEMO
 
-![Demo on my iPhone 6s](https://giant.gfycat.com/MixedBowedBudgie.gif)
+![Demo on my iPhone 6s](demo/iphone6s.gif)
+
+[gfycat](https://gfycat.com/MixedBowedBudgie)
 
 [Raw video](demo/iphone6s.mov)
