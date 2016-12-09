@@ -1,0 +1,30 @@
+{
+	"name": "ReactP2",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test": "jest"
+	},
+	"dependencies": {
+		"@types/core-decorators": "^0.10.30",
+		"@types/matter-js": "^0.9.31",
+		"@types/p2": "^0.7.28",
+		"@types/react-native": "^0.37.1",
+		"core-decorators": "0.12.2",
+		"matter-js": "^0.11.1",
+		"p2": "^0.7.1",
+		"react": "15.4.1",
+		"react-native": "0.39.0"
+	},
+	"devDependencies": {
+		"babel-jest": "17.0.2",
+		"babel-preset-react-native": "1.9.0",
+		"jest": "17.0.3",
+		"react-test-renderer": "15.4.1",
+		"typescript": "^2.1.4"
+	},
+	"jest": {
+		"preset": "react-native"
+	}
+}

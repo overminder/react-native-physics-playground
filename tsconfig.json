@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+      "target": "es6",
+      "jsx": "react",
+      "noImplicitAny": false,
+      "sourceMap": false,
+      "experimentalDecorators": true,
+      "outDir": "ts.build"
+  },
+  "include": [
+    "ts/**/*"
+  ]
+}
